@@ -1,8 +1,9 @@
-### Olá, eu me chamo Kauã Maniçoba 👋 E aqui estão minha redes e contatos!
+### Olá, eu me chamo Kauã Maniçoba 👋 Aqui estão minha redes e contatos!
 -----
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kauarodriguespew@gmail.com) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](13988181086) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krm_013/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-rodrigues241202/) 
 
 ![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaManicoba907&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaManicoba907)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu utilizo
 ----
