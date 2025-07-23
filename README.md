@@ -17,3 +17,4 @@
 </div><br>
 
 Estudante de Análise e Desenvolvimento de sistemas atualmente estudando Python e Flask! Sempre buscando conhecimento e novos desafios para aprimorar as minhas capacidades como desenvolvedor!
+Apoiando Code & Café!
