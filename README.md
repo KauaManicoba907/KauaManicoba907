@@ -15,5 +15,5 @@
 <img align ="center" alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br>
 
-Estudante de Análise e Desenvolvimento de sistemas atualmente estudando Python e Flask! Sempre buscando conhecimento e novos desafios para aprimorar as minhas capacidades como desenvolvedor!
+Estudante de Análise e Desenvolvimento de sistemas atualmente estudando e com FOCO em C# e .NET Sempre buscando conhecimento e novos desafios para aprimorar as minhas capacidades como desenvolvedor!
 Apoiando Code & Café!
